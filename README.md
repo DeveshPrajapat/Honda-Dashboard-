@@ -139,4 +139,3 @@ Skills:
 * SQL
 * Data Analytics
 
-GitHub: https://github.com/your-username
