@@ -104,7 +104,11 @@ The following steps were performed during the project:
 5. Dashboard design and visualization
 
 ---
+<img width="1327" height="742" alt="Screenshot 2026-03-09 223814" src="https://github.com/user-attachments/assets/e4b051dc-5163-4d21-9bf4-1c2cf98de0bc" />
+<img width="1324" height="741" alt="Screenshot 2026-03-09 223832" src="https://github.com/user-attachments/assets/ce3c0886-3bce-4b32-93d5-846a2255b7ef" />
+<img width="1324" height="741" alt="Screenshot 2026-03-09 223848" src="https://github.com/user-attachments/assets/9ef22a3d-91b4-4c99-a1e0-fc037005b11f" />
 
+---
 ## 🚀 How to Use the Project
 
 1. Clone this repository
